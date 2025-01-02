@@ -2,10 +2,10 @@
 
 <h1>Sumário - </h1>
 <ul> 
-    <li><a href="#about" style="font-size:18px; font-family:Inter"> Sobre mim 👤 </a></li>
-    <li><a href="#projects" style="font-size:18px; font-family:Inter"> Projetos 🎓 </a></li>
-    <li><a href="#contacts" style="font-size:18px; font-family:Inter"> Contatos 📲 </a></li>
-    <li><a href="#stats" style="font-size:18px; font-family:Inter"> Estatisticas 📈 </a></li>
+    <li><a href="#about" style="font-size:18px; font-family:Inter"> Sobre mim</a> 👤</li>
+    <li><a href="#projects" style="font-size:18px; font-family:Inter"> Projetos</a> 🎓</li>
+    <li><a href="#contacts" style="font-size:18px; font-family:Inter"> Contatos</a> 📲</li>
+    <li><a href="#stats" style="font-size:18px; font-family:Inter"> Estatisticas</a> 📈</li>
 </ul>
 
 <hr>
