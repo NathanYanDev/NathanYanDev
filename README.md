@@ -8,7 +8,6 @@
     <li><a href="#stats" style="font-size:18px; font-family:Inter"> Estatisticas</a> 📈</li>
 </ul>
 
-<hr>
 
 <div id="about">
     <h1>Sobre mim 👤</h1> 
@@ -16,7 +15,6 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611qjwt1fe5ovynmoxocvyxc2kx0ifg3uk5x58mtjlq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
 </div>
 
-<hr>
 
 <div id="techs">
     <h1>Tecnologias usadas 💻</h1> 
@@ -24,15 +22,11 @@
 </div>
 
 
-<hr>
-
 <div id="contacts">
     <h1>Contatos 📲</h1> 
     <a href="https://www.linkedin.com/in/nathan-yan-alves/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedln"></a>
     <a href="mailto:nathan_yan_alves@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </div>
-
-<hr>
 
 <div id="stats">
     <h1>Estatisticas 📈</h1> 
