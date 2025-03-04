@@ -5,7 +5,7 @@
 
 Programador Full Stack
 
-Atualmente estudando React, Next.js, GraphQL e Node.js 📖
+Atualmente estudando Java, Springboot 📖
 
 > "Aqueles que são loucos o suficiente para pensar que podem mudar o mundo, são os que realmente o fazem."  
 > – **Steve Jobs**
