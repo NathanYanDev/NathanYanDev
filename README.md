@@ -12,7 +12,7 @@ Atualmente estudando Java, Springboot 📖
 
 ## Tecnologias usadas 💻
 
-![Tech icons](https://skillicons.dev/icons?i=git,html,css,js,typescript,nodejs,react,nextjs)
+![Tech icons](https://skillicons.dev/icons?i=git,html,css,js,typescript,nodejs,react,nextjs,java,spring)
 
 
 ## Contatos 📲
