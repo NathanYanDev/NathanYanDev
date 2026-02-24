@@ -1,30 +1,61 @@
-# Nathan Yan
+<h1 align="center">Hi, I'm Nathan Yan 👋</h1>
 
+<p align="center">
+  <b>Full Stack Developer · Java & Spring Enthusiast</b><br/>
+  <i>Building robust back-ends and clean front-ends, one commit at a time.</i>
+</p>
 
-<img src="https://i.gifer.com/75xZ.gif" align="right" width="300" height="170" alt="GIF" />
+<img src="https://i.gifer.com/75xZ.gif" align="right" width="280" alt="coding gif" />
 
-Programador Full Stack
+### About me
 
-Atualmente estudando Java, Springboot 📖
+- 🎯 Focused on **Java + Spring Boot** ecosystem
+- 🌱 Currently deepening knowledge in **REST APIs, JPA/Hibernate and Spring Security**
+- 🔨 Practicing clean architecture and SOLID principles in personal projects
+- 💬 Open to discuss Java, TypeScript and web development in general
+- 📫 Reach me at **nathan.yan@zohomail.com**
 
-> "Aqueles que são loucos o suficiente para pensar que podem mudar o mundo, são os que realmente o fazem."  
-> – **Steve Jobs**
+> *"The people who are crazy enough to think they can change the world are the ones who do"*
+> — **Steve Jobs**
 
-## Tecnologias usadas 💻
+---
 
-![Tech icons](https://skillicons.dev/icons?i=git,html,css,js,typescript,nodejs,react,nextjs,java,spring)
+### 🛠️ Tech Stack
 
+#### Back-end
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
-## Contatos 📲
+#### Front-end
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-yan-alves/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:nathan_yan_alves@hotmail.com)
+#### Tools & Version Control
+![Git](https://skillicons.dev/icons?i=git)
 
+---
 
-## Estatisticas 📈
+### 📊 GitHub Stats
 
-<div id="stats" style="height:200px;">
-    <a href="https://github.com/NathanYanDev">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanYanDev&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanYanDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NathanYanDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
+
+### 🤝 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/nathan-yan-alves/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nathan.yan@zohomail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
