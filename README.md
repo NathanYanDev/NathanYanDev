@@ -42,9 +42,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NathanYanDev&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/s4kai">
+    <img height="180em" src="./profile/stats.svg"/>
+    <img height="180em" src="./profile/top-langs.svg"/>
+  </a>
+</div>
 
 ---
 
