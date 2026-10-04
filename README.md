@@ -1,31 +1,30 @@
 <h1 align="center">Hi, I'm Nathan Yan 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Java & Spring Enthusiast</b><br/>
-  <i>Building robust back-ends and clean front-ends, one commit at a time.</i>
+  <b>Python Developer · Web Automation & RPA</b><br/>
+  <i>IT Intern at SNG Synergroup · Computer Science student</i>
 </p>
 
-<img src="https://i.gifer.com/75xZ.gif" align="right" width="280" alt="coding gif" />
+<img src="https://i.gifer.com/75xZ.gif" align="right" width="250" alt="coding gif" />
 
 ### About me
 
-- 🎯 Focused on **Java + Spring Boot** ecosystem
-- 🌱 Currently deepening knowledge in **REST APIs, JPA/Hibernate and Spring Security**
-- 🔨 Practicing clean architecture and SOLID principles in personal projects
-- 💬 Open to discuss Java, TypeScript and web development in general
-- 📫 Reach me at **nathan.yan@zohomail.com**
-
-> *"The people who are crazy enough to think they can change the world are the ones who do"*
-> — **Steve Jobs**
+- 🤖 Main author of a production RPA system in **Python** that collects tax certificates from government portals
+- 🔐 Experience with **Playwright**, **digital certificate auth (ICP-Brasil/PKI)** and **pytest**
+- 💻 Also build dashboards and integrations with **Next.js + Node.js**
+- ☕ Personal projects in **Java + Spring Boot**
+- 📫 **nathan.yan@zohomail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Back-end
+#### Automation & Back-end
+![Python](https://skillicons.dev/icons?i=py)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![PHP](https://skillicons.dev/icons?i=php)
 
 #### Front-end
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -35,7 +34,10 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
-#### Tools & Version Control
+#### Databases & Tools
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ---
